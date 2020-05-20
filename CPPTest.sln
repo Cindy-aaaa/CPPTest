@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30118.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPPTest", "CPPTest\CPPTest.vcxproj", "{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Debug|x64.ActiveCfg = Debug|x64
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Debug|x64.Build.0 = Debug|x64
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Debug|x86.Build.0 = Debug|Win32
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Release|x64.ActiveCfg = Release|x64
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Release|x64.Build.0 = Release|x64
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Release|x86.ActiveCfg = Release|Win32
+		{AC0759E1-3510-4B1A-BA73-EA0D88915EBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6777E3B7-6DBC-45F2-942A-BA0FB3502200}
+	EndGlobalSection
+EndGlobal
